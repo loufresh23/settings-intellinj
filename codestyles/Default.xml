@@ -1,9 +1,0 @@
-<code_scheme name="Default" version="173">
-  <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="120" />
-    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
-    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
-  </codeStyleSettings>
-</code_scheme>

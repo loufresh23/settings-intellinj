@@ -1,0 +1,33 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt subtract" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
+  <action id="ExtractFunctionToScope" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt decimal" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="alt #10000d1" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
+  <action id="hg4idea.QPushAction" />
+</keymap>
